@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoNSubstitute.Shortcuts", "src\AutoNSubstitute.Shortcuts.csproj", "{45D42753-DAF9-40D2-8875-CE39D1040514}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoNSubstitute.Shortcuts.Test", "test\AutoNSubstitute.Shortcuts.Test\AutoNSubstitute.Shortcuts.Test.csproj", "{8881044A-6B86-44F3-BD70-C99A36A7DDE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D42753-DAF9-40D2-8875-CE39D1040514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D42753-DAF9-40D2-8875-CE39D1040514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D42753-DAF9-40D2-8875-CE39D1040514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D42753-DAF9-40D2-8875-CE39D1040514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8881044A-6B86-44F3-BD70-C99A36A7DDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8881044A-6B86-44F3-BD70-C99A36A7DDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8881044A-6B86-44F3-BD70-C99A36A7DDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8881044A-6B86-44F3-BD70-C99A36A7DDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A3BD53B-1BB4-43D7-9641-770DC51307F1}
+	EndGlobalSection
+EndGlobal
